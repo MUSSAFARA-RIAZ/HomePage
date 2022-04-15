@@ -1,0 +1,726 @@
+body {
+}
+
+nav {
+  font-family: 'Poppins';
+  font-size: 24px;
+  font-weight: 500;
+}
+
+label.logo {
+  color: black;
+  font-size: 35px;
+  line-height: 80px;
+  padding: 0 100px;
+  font-weight: bold;
+}
+#icon{
+    width: 50px;
+
+
+}
+
+h3 {
+  display: inline;
+
+  margin-left: 20px;
+}
+
+a {
+  margin: 30px;
+  font-size: 20px;
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+}
+
+#items {
+  display: inline;
+
+  float: right;
+}
+
+#ques {
+  margin-left: 227px;
+  margin-top: 30px;
+  font-family: Poppins;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 27px;
+  color: skyblue;
+}
+
+#services {
+  margin-left: 227px;
+  margin-top: 0px;
+  padding: 0px;
+  letter-spacing: 1px;
+
+  width: 300px;
+  height: 100px;
+  padding-top: 0px;
+  font-family: Poppins, 'Times New Roman', Times, serif;
+  font-size: 25px;
+  box-sizing: border-box;
+  font-family: 'Poppins';
+  font-size: 28px;
+  font-weight: 500;
+  line-height: 30px;
+  letter-spacing: 0em;
+  text-align: left;
+
+  font-weight: bold;
+}
+
+#img img {
+  border-radius: 10px;
+  margin-left: 50px;
+  margin-right: 50px;
+  width: 1280px;
+}
+
+#journey {
+  width: 200px;
+
+  font-family: Poppins, 'Times New Roman', Times, serif;
+  font-size: 25px;
+  box-sizing: border-box;
+
+  font-weight: bold;
+  margin-left: 227px;
+  letter-spacing: 1px;
+}
+
+#exp {
+  width: 200px;
+  font-family: 'Poppins';
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 300;
+
+  letter-spacing: 0em;
+  text-align: left;
+  opacity: 0.9;
+}
+
+#join1 {
+  margin-left: 227px;
+}
+
+#info button,
+input {
+  display: inline;
+}
+
+input {
+  width: 200px;
+  height: 40px;
+}
+
+#card-sec h2 {
+  font-family: Poppins;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 54px;
+  letter-spacing: 1px;
+  width: 300px;
+
+  margin-left: 150px;
+}
+
+#align-card {
+  display: grid;
+  grid-template-rows: 300px;
+  grid-template-columns: 300px 300px 300px;
+  margin-left: 150px;
+  grid-gap: 20px;
+}
+
+#card1 {
+  border: 1px solid transparent;
+}
+
+#card2 {
+  border: 1px solid transparent;
+}
+
+#card3 {
+  border: 1px solid transparent;
+}
+#contacts > button {
+  position: relative;
+  left: -57px;
+  top: -1px;
+}
+#info > input {
+  height: 35px;
+}
+
+#ser {
+  font-size: 28px;
+  margin-top: 10px;
+}
+
+/*  */
+
+.card p {
+  font-size: 20px;
+  font-family: 'Poppins';
+
+  font-weight: 300;
+}
+
+#product-show {
+  margin-top: 100px;
+  margin-left: 100px;
+}
+
+#product-show > p {
+  font-family: Poppins;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 54px;
+  letter-spacing: 1px;
+  width: 350px;
+
+  margin-left: 30px;
+}
+
+#images {
+  display: grid;
+  grid-template-columns: 500px 500px;
+  grid-template-rows: 300px 300px;
+  grid-gap: 100px;
+  grid-row-gap: 300px;
+  margin-left: 50px;
+}
+
+#imga1 img {
+  position: relative;
+  top: 20px;
+  border-radius: 16px;
+  width: 500px;
+  height: 400px;
+  left: 50px;
+}
+
+#imga2 img {
+  position: relative;
+  top: -30px;
+  border-radius: 16px;
+  width: 500px;
+  height: 400px;
+}
+
+#imga3 img {
+  position: relative;
+  top: 20px;
+  border-radius: 16px;
+  width: 500px;
+  height: 400px;
+}
+
+#imga4 img {
+  position: relative;
+  top: -20px;
+  border-radius: 16px;
+  width: 500px;
+  height: 400px;
+}
+
+#bold-text {
+  font-weight: bold;
+  font-family: 'Poppins';
+  padding: 10px;
+  position: relative;
+  top: 0px;
+}
+
+#light-text {
+  font-size: 14px;
+  opacity: 0.5;
+  position: relative;
+  top: 20px;
+  padding: 10px;
+}
+
+
+#team-img {
+  display: grid;
+  grid-template-rows: 400px;
+  grid-template-columns: 300px 600px;
+  position: relative;
+  top: 180px;
+  margin-top: 200px;
+  left: 100px;
+}
+#team-details{
+
+}
+
+#head {
+  color: black;
+  font-family: 'Poppins';
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+#team {
+  font-size: 32px;
+  margin-left: 1px;
+}
+
+#team-shoot {
+  display: grid;
+  grid-template-columns: 500px 500px;
+  grid-template-rows: 400px 400px;
+  margin-left: 120px;
+}
+
+#member1 img {
+  position: relative;
+  top: 100px;
+  left: 250px;
+  width: 280px;
+  height: 280px;
+  border-radius: 16px;
+  width: 200px;
+  height: 200px;
+}
+
+#member2 img {
+  position: relative;
+  top: 0px;
+
+  width: 200px;
+  height: 200px;
+  border-radius: 16px;
+}
+
+#member3 img {
+  position: relative;
+  left: 500px;
+  width: 280px;
+  height: 280px;
+  border-radius: 16px;
+  width: 200px;
+  height: 200px;
+  top: -150px;
+}
+
+#quote #decoration {
+  position: relative;
+  top: 33px;
+  left: 100px;
+  font-family: 'Poppins';
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 40px;
+
+  width: 600px;
+}
+#quote {
+  position: relative;
+  top: 90px;
+}
+
+#edie #one-sec {
+  font-size: 20px;
+
+  font-weight: bold;
+
+  width: 200px;
+  text-decoration: none;
+  position: relative;
+  top: -50px;
+  left: 200px;
+  line-height: 20px;
+  font-family: 'Poppins';
+}
+
+#edie img {
+  width: 100px;
+  height: 100px;
+  border-radius: 16px;
+  position: relative;
+  left: 90px;
+  top: 30px;
+}
+
+#footer {
+  display: grid;
+  grid-template-rows: 300px;
+  grid-template-columns: 400px 400px 400px;
+  background-color: black;
+  color: white;
+  margin-top: 100px;
+}
+
+#nav-last a {
+  text-decoration: none;
+  font-size: 20px;
+  color: white;
+  display: block;
+  position: relative;
+  left: 50px;
+}
+
+.logos {
+  width: 40px;
+  height: 40px;
+  display: inline;
+}
+.card{
+    border: 1px solid transparent;
+
+
+
+}
+
+#logo-social > div {
+  display: inline;
+  padding: 10px;
+}
+
+#sec-logo img {
+  width: 40px;
+  height: 40px;
+}
+
+#third-logo img {
+  width: 40px;
+  height: 40px;
+}
+
+#logo > h1 {
+  position: relative;
+  left: 10px;
+}
+
+* {
+  font-family: 'Poppins';
+}
+
+@media only screen and (max-width: 400px) {
+  * {
+    font-family: 'Poppins';
+  }
+  #ques > p {
+    margin-left: -200px;
+  }
+
+  #services {
+    margin-left: 10px;
+  }
+
+  #img img {
+    border-radius: 10px;
+    margin-left: 10px;
+    margin-right: 0px;
+    width: 100%;
+    max-width: 500px;
+  }
+
+  #journey {
+      width: 100%;
+      max-width: 300px;
+
+   margin-left: 10px;
+    
+  }
+
+  #exp {
+    width: 100%;
+    max-width: 300px;
+
+   
+  }
+  #join1 {
+    margin-left:10px;
+  }
+  
+  #info button,
+  input {
+    display: inline;
+  }
+  #card-sec{
+      display: block;
+      width: 100%;
+      max-width: 300px;
+  }
+
+  #card-sec h2 {
+    font-family: 'Poppins';
+   font-size: 25px;
+  
+    margin-left: 15px;
+  }
+  
+  #align-card {
+ display: block;
+    margin-left: 10px;
+    
+  }
+  .card{
+      width: 200px;
+      margin: auto;
+      margin-bottom: 20px;
+    
+
+
+  }
+  #card1 {
+    border: 4px solid whitesmoke;
+    box-shadow: 2px 2px 2px white;
+    border-radius: 10px;
+    font-size: 18px;
+    padding: 5px;
+  }
+  button{
+      border-radius: 10px;
+  }
+  #card2 {
+    border: 4px solid whitesmoke;
+    box-shadow: 2px 2px 2px white;
+    border-radius: 10px;
+    font-size: 18px;
+    padding: 5px;
+  }
+  
+  #card3 {
+    border: 4px solid whitesmoke;
+    box-shadow: 2px 2px 2px white;
+    border-radius: 10px;
+    font-size: 18px;
+    padding: 5px;
+  }
+  
+  #ser{
+      margin-left: 10px;
+  }
+  .card p {
+    font-size: 18px;
+    font-family: 'Poppins';
+  
+    font-weight: 300;
+  }
+  
+  #product-show {
+    margin-top: 0px;
+    margin-left: 10px;
+  }
+  
+  #product-show > p {
+    font-family: 'Poppins';
+    font-size: 30px;
+   
+    width: 100%;
+    max-width: 270px;
+  
+    margin-left: 0px;
+  }
+  
+  #images {
+    display: block;
+    
+  }
+  
+  #imga1 img {
+    position: relative;
+    top: 0px;
+    border-radius: 10px;
+    width: 250px;
+    height: 200px;
+    left: -20px;
+  }
+  
+  #imga2 img {
+    position: relative;
+    top: 0px;
+    border-radius: 10px;
+    width: 250px;
+    height: 200px;
+    left: -20px;
+  }
+  
+  #imga3 img {
+    position: relative;
+    top: 0px;
+    border-radius: 10px;
+    width: 250px;
+    height: 200px;
+    left: -20px;
+  }
+  
+  #imga4 img {
+    position: relative;
+    top: 0px;
+    border-radius: 10px;
+    width: 250px;
+    height: 200px;
+    left: -20px;
+  }
+  #bold-text {
+    font-weight: bold;
+    font-family: 'Poppins';
+    padding: -10px;
+    position: relative;
+    top: -30px;
+    left: -10px;
+    font-size: 20px;
+    
+    
+
+  }
+  
+  #light-text {
+    font-size: 14px;
+    opacity: 0.5;
+    position: relative;
+    top: 0px;
+    padding: 0px;
+  }
+  #team-img {
+    display: grid;
+    grid-template-rows: 400px;
+    grid-template-columns: 300px 600px;
+    position: relative;
+    top: 0px;
+    margin-top: 0px;
+    
+    left: 0px;
+  }
+  
+  #head {
+    color: red;
+    font-family: 'Poppins';
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+  
+  #team {
+    font-size: 32px;
+    margin-left: 1px;
+  }
+  
+  #team-shoot {
+    display: grid;
+    grid-template-columns: 500px 500px;
+    grid-template-rows: 400px 400px;
+    margin-left: -50px;
+    grid-gap: 10px;
+
+  }
+  #team-details{
+      width: 200px;
+      margin: auto;
+  }
+  
+  #member1 img {
+    position: relative;
+    top: 470px;
+    left: -250px;
+    width: 150px;
+    height:120px;
+    border-radius: 10px;
+   
+  }
+  
+  #member2 img {
+    position: relative;
+    left: -600px;
+    width: 150px;
+    height: 120px;
+    border-radius: 10px;
+   
+    top: 580px;
+  }
+  
+  #member3 img {
+    position: relative;
+    left: -100px;
+    width: 150px;
+    height: 150px;
+    border-radius: 10px;
+   
+    top: -80px;
+  }
+  #quote #decoration {
+    position: relative;
+    top: 220px;
+    left: 0px;
+    font-family: 'Poppins';
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 40px;
+  width: 100%;
+    max-width: 300px;
+  }
+  #quote {
+    position: relative;
+    top: 90px;
+  }
+  
+  #edie #one-sec {
+    font-size: 17px;
+  
+  
+  
+    width: 200px;
+ 
+    position: relative;
+    top: 100px;
+    left: 110px;
+    line-height: 20px;
+    
+  }
+  
+  #edie img {
+    width: 100px;
+    height: 100px;
+    border-radius: 16px;
+    position: relative;
+    left: 0px;
+    top: 200px;
+  }
+  #footer {
+    display: block;
+ 
+    margin-top: 250px;
+    padding-bottom: 50px;
+    padding-right: 0px;
+  }
+  #nav-last a {
+   
+    position: relative;
+    left: 0px;
+  }
+  
+  .logos {
+    width: 30px;
+    height: 30px;
+    display: inline;
+  }
+
+  
+  #logo-social > div {
+    display: inline;
+    padding: 10px;
+  }
+  
+  #sec-logo img {
+    width: 30px;
+   
+  }
+  
+  #third-logo img {
+    width: 30px;
+  }  
+  
+  
+}
